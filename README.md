@@ -33,4 +33,4 @@ Selama pengujian, saya berhasil:
 ---
 
 ## 👨‍💻 Author
-**Aryo Prayogi** QA Enthusiast | [Link LinkedIn Anda Disini]
+**Aryo Prayogi** | www.linkedin.com/in/aryoprayogi01
